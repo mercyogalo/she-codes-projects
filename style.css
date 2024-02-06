@@ -44,7 +44,7 @@ margin-top: 10px;
     display: flex;
     justify-content: space-between;
 }
-#loginButtton{
+.loginButtton{
     padding: 6px;
     background-color: black;
     border: 1px solid #E50914;
