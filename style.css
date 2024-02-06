@@ -43,13 +43,12 @@ margin-top: 10px;
 .topHeading{
     display: flex;
     justify-content: space-between;
+    margin-right: 10px;
 }
 .loginButtton{
-    padding: 6px;
-    background-color: black;
-    border: 1px solid #E50914;
-    color: #E50914;
-    margin-right: 20px;
+padding: 4px;
+border: 1px solid #E50914;
+color: #E50914;
 }
 .page{
     background-color: black;   
