@@ -51,6 +51,7 @@ padding: 10px;
 border: 1px solid #E50914;
 color: #E50914;
 background-color: black;
+width: 80px;
 }
 .page{
     background-color: black;   
@@ -60,7 +61,7 @@ background-color: black;
     padding: 10px;
     background-color: black;
     border:1px solid #E50914;
-    width:80px;
+    width:100px;
 }
 .heading{
     display: flex;
