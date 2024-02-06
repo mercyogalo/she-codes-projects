@@ -60,6 +60,7 @@ background-color: black;
     padding: 10px;
     background-color: black;
     border:1px solid #E50914;
+    width: 45px;
 }
 .heading{
     display: flex;
