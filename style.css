@@ -40,6 +40,10 @@ margin-top: 10px;
     color: white;
     background-color: #C11119;
 }
+.topHeading{
+    display: flex;
+    justify-content: space-between;
+}
 .page{
     background-color: black;   
 } 
