@@ -21,7 +21,8 @@ img{
     margin-top: 20px;
 }
 #email{
-padding: 8px;
+padding: 5px;
+padding-left: 2px;
 background-color: black;
 border: 1px solid #E50914;
 color: #E50914;
