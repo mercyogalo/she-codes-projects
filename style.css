@@ -129,8 +129,9 @@ justify-content: center;
 margin-top: 30px;
 border-radius: 60%;
 height:150px;
-width: 150px;
+width: 60%;
 margin-right:10px;
+margin-right: 10px;
 transition: all 250ms ease-in-out;
 }
 .image-info h3{
