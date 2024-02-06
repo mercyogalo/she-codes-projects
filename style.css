@@ -46,9 +46,10 @@ margin-top: 10px;
     margin-right: 10px;
 }
 .topHeading button{
-padding: 4px;
+padding: 10px;
 border: 1px solid #E50914;
 color: #E50914;
+background-color: black;
 }
 .page{
     background-color: black;   
