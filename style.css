@@ -85,10 +85,11 @@ p{
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
-    margin-left: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-video{
-    max-width: 80%;
+.video{
+    max-width: 100%;
     border:1px solid #E50914;
 }
 .details p{
