@@ -124,7 +124,7 @@ margin-right: 20px;
 }
 .images{
 display: flex;
-justify-content: center;
+justify-content: space-between;
 max-width: 100%;
 }
 .image-people{
