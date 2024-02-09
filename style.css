@@ -134,12 +134,13 @@ margin-top: 30px;
 border-radius: 60%;
 height:100px;
 width:150px;
+transition: all 200ms ease-in-out;
 }
 .image-info h3{
 color: white;
 text-align: center;
 }
 .image-people:hover{
-border: 1px solid #E50914 ;
+border: 2px solid white;
 cursor: pointer;
 }
